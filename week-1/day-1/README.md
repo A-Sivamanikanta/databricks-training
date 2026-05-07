@@ -1,0 +1,1 @@
+I solved sql queries and the exercises cover SELECT statements, filtering, aggregate functions, GROUP BY, HAVING, ORDER BY, and JOIN operations.
